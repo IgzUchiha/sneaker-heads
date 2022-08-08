@@ -52,9 +52,9 @@ h1{
     margin-top: 10px;
     margin-right: 200px;
     border-width: 7px;
-    box-shadow: 5px 0px blue;
+    box-shadow: 5px  blue;
 
-    border: groove;
+    /* border: groove ; */
 
 }
 #row1-section2{
